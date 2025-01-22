@@ -17,7 +17,7 @@ This exercise will demonstrate the following in the example video:
 -> cave_mouth
 
 == cave_mouth == 
-You are at the entrance to a cave. {not torch_pickup:There is a torch on the floor.} There are tunnels that extend to the east and west.
+You are at the entrance to a cave. {not torch_pickup:There is a torch on the floor.} There are tunnels that extend to the east and west. There is a glimmer of light at the end of the west tunnel.
 + [Take the east tunnel.] -> east_tunnel
 + [Take the west tunnel.] -> west_tunnel
 * [Pick up the torch.] -> torch_pickup 
